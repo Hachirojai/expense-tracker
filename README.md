@@ -16,7 +16,7 @@ O **Expense Tracker** é uma aplicação simples desenvolvida em Python para reg
 ## Como Executar o Projeto
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/seu-usuario/expense-tracker.git
+    git clone https://github.com/Hachirojai/expense-tracker.git
     ```
 2. Navegue até o diretório do projeto:
     ```bash
